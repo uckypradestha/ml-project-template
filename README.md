@@ -36,7 +36,7 @@ cd nama-repo
 Buat folder baru di komputer Anda, lalu aktifkan repository nya
 
 ```
-git init .
+git init
 git add .
 git commit -m "Initial skeleton."
 git remote add origin your-gitlab-repo
