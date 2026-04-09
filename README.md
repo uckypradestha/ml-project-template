@@ -55,7 +55,7 @@ venv\Scripts\activate # Windows
 pip install -r requirements.txt
 ```
 
-📊 Dataset
+## 📊 Dataset
 
 Dataset yang digunakan dapat berupa data public maupun privet
 
@@ -69,7 +69,7 @@ data/raw/
 3. Model Training → simpan model di models/
 4. Evaluation → simpan hasil di results/
 
-🧠 Model
+## 🧠 Model
 
 Model yang digunakan dapat berupa:
 
@@ -77,7 +77,7 @@ Machine Learning
 Deep Learning
 Transfer Learning
 
-📈 Results
+## 📈 Results
 
 Hasil training dan evaluasi disimpan di folder:
 
@@ -89,13 +89,14 @@ Contoh:
 - Loss graph
 - Confusion matrix
 
-🛠️ Tech Stack
-
-```Python```
-```NumPy```, ```Pandas```
-```Scikit-learn```
-```TensorFlow``` / ```PyTorch```
-```Matplotlib``` / ```Seaborn```
+## 🛠️ Tech Stack
+```
+Python
+NumPy, Pandas
+Scikit-learn
+TensorFlow / PyTorch
+Matplotlib / Seaborn
+```
 
 📌 Best Practices
 1. Jangan commit dataset besar ke GitHub
