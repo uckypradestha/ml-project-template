@@ -63,7 +63,7 @@ Letakkan dataset di folder:
 
 data/raw/
 
-⚙️ Workflow
+## ⚙️ Workflow
 1. Data Collection → simpan di data/raw
 2. Preprocessing → simpan di data/processed
 3. Model Training → simpan model di models/
@@ -98,11 +98,11 @@ TensorFlow / PyTorch
 Matplotlib / Seaborn
 ```
 
-📌 Best Practices
+## 📌 Best Practices
 1. Jangan commit dataset besar ke GitHub
 2. Gunakan src/ untuk code production
 3. Gunakan notebooks/ hanya untuk eksperimen
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull request dan kontribusi sangat terbuka.
